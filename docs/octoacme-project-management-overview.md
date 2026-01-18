@@ -21,7 +21,6 @@ Applies to all cross-functional projects that deliver product features, services
 - Scrum Master: facilitates agile ceremonies, removes impediments, and coaches the team.
 - UX/UI Designer: designs user experiences, conducts research, and ensures accessibility.
 - Business Analyst: gathers requirements, creates user stories, and bridges business-technical communication.
-- QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
 > For detailed role definitions and responsibilities, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md).
